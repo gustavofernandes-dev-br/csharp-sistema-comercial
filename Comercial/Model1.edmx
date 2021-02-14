@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="BDGUSTAVOModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="BDGUSTAVOModelStoreContainer">
+          <EntitySet Name="USUARIOS" EntityType="BDGUSTAVOModel.Store.USUARIOS" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="USUARIOS">
+          <Key>
+            <PropertyRef Name="US_ID" />
+          </Key>
+          <Property Name="US_ID" Type="smallint" Nullable="false" />
+          <Property Name="US_LOGIN" Type="nchar" MaxLength="20" />
+          <Property Name="US_SENHA" Type="nchar" MaxLength="20" />
+          <Property Name="US_CADASTRO" Type="datetime" />
+          <Property Name="US_FUNCIONARIO" Type="nchar" MaxLength="30" />
+          <Property Name="US_CONSULTOR" Type="smallint" />
+          <Property Name="US_PERFIL" Type="nchar" MaxLength="1" />
+          <Property Name="US_EMAIL" Type="nchar" MaxLength="30" />
+        </EntityType>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="BDGUSTAVOModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="BDGUSTAVOEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="USUARIOS" EntityType="BDGUSTAVOModel.USUARIOS" />
+        </EntityContainer>
+        <EntityType Name="USUARIOS">
+          <Key>
+            <PropertyRef Name="US_ID" />
+          </Key>
+          <Property Name="US_ID" Type="Int16" Nullable="false" />
+          <Property Name="US_LOGIN" Type="String" MaxLength="20" Unicode="true" FixedLength="true" />
+          <Property Name="US_SENHA" Type="String" MaxLength="20" Unicode="true" FixedLength="true" />
+          <Property Name="US_CADASTRO" Type="DateTime" />
+          <Property Name="US_FUNCIONARIO" Type="String" MaxLength="30" Unicode="true" FixedLength="true" />
+          <Property Name="US_CONSULTOR" Type="Int16" />
+          <Property Name="US_PERFIL" Type="String" MaxLength="1" Unicode="true" FixedLength="true" />
+          <Property Name="US_EMAIL" Type="String" MaxLength="30" Unicode="true" FixedLength="true" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="BDGUSTAVOModelStoreContainer" CdmEntityContainer="BDGUSTAVOEntities">
+          <EntitySetMapping Name="USUARIOS">
+            <EntityTypeMapping TypeName="BDGUSTAVOModel.USUARIOS">
+              <MappingFragment StoreEntitySet="USUARIOS">
+                <ScalarProperty Name="US_ID" ColumnName="US_ID" />
+                <ScalarProperty Name="US_LOGIN" ColumnName="US_LOGIN" />
+                <ScalarProperty Name="US_SENHA" ColumnName="US_SENHA" />
+                <ScalarProperty Name="US_CADASTRO" ColumnName="US_CADASTRO" />
+                <ScalarProperty Name="US_FUNCIONARIO" ColumnName="US_FUNCIONARIO" />
+                <ScalarProperty Name="US_CONSULTOR" ColumnName="US_CONSULTOR" />
+                <ScalarProperty Name="US_PERFIL" ColumnName="US_PERFIL" />
+                <ScalarProperty Name="US_EMAIL" ColumnName="US_EMAIL" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="Model1">
+        <EntityTypeShape EntityType="BDGUSTAVOModel.USUARIOS" Width="1.5" PointX="0.75" PointY="0.75" Height="2.5571907552083335" IsExpanded="true" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

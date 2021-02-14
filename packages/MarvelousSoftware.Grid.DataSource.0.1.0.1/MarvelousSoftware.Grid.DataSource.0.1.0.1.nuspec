@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MarvelousSoftware.Grid.DataSource</id>
+    <version>0.1.0.1</version>
+    <title>MarvelousSoftware.Grid.DataSource</title>
+    <authors>Damian Kaminski</authors>
+    <owners>Damian Kaminski</owners>
+    <licenseUrl>http://www.gnu.org/licenses/gpl-3.0.txt</licenseUrl>
+    <projectUrl>http://marvelous.software/docs.html#/grid</projectUrl>
+    <iconUrl>http://marvelous.software/favicons/favicon-32x32.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Data source for marvelous-aurelia-grid. Handles filtering, paging, sorting and more.</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>MarvelousSoftware marvelous.software MarvelousSoftware.Grid grid datasource aurelia</tags>
+    <dependencies>
+      <dependency id="MarvelousSoftware.Core" version="0.1.0" />
+      <dependency id="MarvelousSoftware.QueryLanguage" version="0.1.0" />
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,198 @@
+C:\Users\GUSTAVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\GUSTAVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\GUSTAVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\GUSTAVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.formProspeccao.resources
+C:\Users\GUSTAVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\Comercial.csproj.GenerateResource.Cache
+C:\Users\GUSTAVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\GUSTAVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\GUSTAVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormContato.resources
+C:\Users\GUSTAVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormContrato.resources
+C:\Users\GUSTAVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Principal.resources
+C:\Users\GUSTAVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormProposta.resources
+C:\Users\GUSTAVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormVisita.resources
+C:\Users\GUSTAVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormCadastroCliente.resources
+C:\COMERCIAL\Comercial\Comercial\bin\Debug\Comercial.exe
+C:\COMERCIAL\Comercial\Comercial\bin\Debug\Comercial.pdb
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormContato.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormContrato.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Principal.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormProposta.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.formProspeccao.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormVisita.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.csproj.GenerateResource.Cache
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.exe
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.pdb
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.LOGIN.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.CadastroClientes.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.formOperadores.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.csprojResolveAssemblyReference.cache
+C:\COMERCIAL\Comercial\Comercial\bin\Debug\Comercial.exe.config
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.CadastroClientes1.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.formRamoAtuacao.resources
+D:\COMERCIAL\Comercial\Comercial\bin\Debug\Comercial.exe.config
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.exe
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.pdb
+D:\COMERCIAL\Comercial\Comercial\bin\Debug\Comercial.exe
+D:\COMERCIAL\Comercial\Comercial\bin\Debug\Comercial.pdb
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.csprojResolveAssemblyReference.cache
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.CadastroClientes.resources
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.CadastroClientes1.resources
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormContato.resources
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormContrato.resources
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Principal.resources
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.formOperadores.resources
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormProposta.resources
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.formProspeccao.resources
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormVisita.resources
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.formRamoAtuacao.resources
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.csproj.GenerateResource.Cache
+G:\COMERCIAL\Comercial\Comercial\bin\Debug\Comercial.exe.config
+G:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.exe
+G:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.pdb
+G:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.csprojResolveAssemblyReference.cache
+G:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.CadastroClientes.resources
+G:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.CadastroClientes1.resources
+G:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormContato.resources
+G:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormContrato.resources
+G:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+G:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Principal.resources
+G:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.formOperadores.resources
+G:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormProposta.resources
+G:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.formProspeccao.resources
+G:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormVisita.resources
+G:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.formRamoAtuacao.resources
+G:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.csproj.GenerateResource.Cache
+G:\COMERCIAL\Comercial\Comercial\bin\Debug\Comercial.exe
+G:\COMERCIAL\Comercial\Comercial\bin\Debug\Comercial.pdb
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Concorrente.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Indicacao.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.meioDeProspeccao.resources
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Concorrente.resources
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Indicacao.resources
+D:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.meioDeProspeccao.resources
+E:\COMERCIAL\Comercial\Comercial\bin\Debug\Comercial.exe.config
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.exe
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.CadastroClientes.resources
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.CadastroClientes1.resources
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Concorrente.resources
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormContato.resources
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormContrato.resources
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Indicacao.resources
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.meioDeProspeccao.resources
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Principal.resources
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.formOperadores.resources
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormProposta.resources
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.formProspeccao.resources
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormVisita.resources
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.formRamoAtuacao.resources
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\COMERCIAL\Comercial\Comercial\bin\Debug\Comercial.exe.config
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.exe
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.pdb
+H:\COMERCIAL\Comercial\Comercial\bin\Debug\Comercial.exe
+H:\COMERCIAL\Comercial\Comercial\bin\Debug\Comercial.pdb
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.csprojResolveAssemblyReference.cache
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.CadastroClientes.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.CadastroClientes1.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Concorrente.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormContato.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormContrato.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Indicacao.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.meioDeProspeccao.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Principal.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.formOperadores.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormProposta.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.formProspeccao.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormVisita.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\WindowsFormsApplication1.formRamoAtuacao.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.csproj.GenerateResource.Cache
+C:\COMERCIAL\Comercial\Comercial\bin\Debug\Comercial.exe.manifest
+C:\COMERCIAL\Comercial\Comercial\bin\Debug\Comercial.application
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.exe.manifest
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Debug\Comercial.application
+C:\COMERCIAL\Comercial\bin\Debug\Comercial.exe.config
+C:\COMERCIAL\Comercial\obj\x86\Debug\Comercial.exe
+C:\COMERCIAL\Comercial\obj\x86\Debug\Comercial.pdb
+C:\COMERCIAL\Comercial\bin\Debug\Comercial.exe.manifest
+C:\COMERCIAL\Comercial\bin\Debug\Comercial.application
+C:\COMERCIAL\Comercial\bin\Debug\Comercial.exe
+C:\COMERCIAL\Comercial\obj\x86\Debug\Comercial.csprojResolveAssemblyReference.cache
+C:\COMERCIAL\Comercial\obj\x86\Debug\WindowsFormsApplication1.CadastroClientes.resources
+C:\COMERCIAL\Comercial\obj\x86\Debug\WindowsFormsApplication1.CadastroClientes1.resources
+C:\COMERCIAL\Comercial\obj\x86\Debug\WindowsFormsApplication1.Concorrente.resources
+C:\COMERCIAL\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormContato.resources
+C:\COMERCIAL\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormContrato.resources
+C:\COMERCIAL\Comercial\obj\x86\Debug\WindowsFormsApplication1.Indicacao.resources
+C:\COMERCIAL\Comercial\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\COMERCIAL\Comercial\obj\x86\Debug\WindowsFormsApplication1.meioDeProspeccao.resources
+C:\COMERCIAL\Comercial\obj\x86\Debug\WindowsFormsApplication1.Principal.resources
+C:\COMERCIAL\Comercial\obj\x86\Debug\WindowsFormsApplication1.formOperadores.resources
+C:\COMERCIAL\Comercial\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\COMERCIAL\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormProposta.resources
+C:\COMERCIAL\Comercial\obj\x86\Debug\WindowsFormsApplication1.formProspeccao.resources
+C:\COMERCIAL\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormVisita.resources
+C:\COMERCIAL\Comercial\obj\x86\Debug\WindowsFormsApplication1.formRamoAtuacao.resources
+C:\COMERCIAL\Comercial\obj\x86\Debug\Comercial.csproj.GenerateResource.Cache
+C:\COMERCIAL\Comercial\obj\x86\Debug\Comercial.exe.manifest
+C:\COMERCIAL\Comercial\obj\x86\Debug\Comercial.application
+C:\COMERCIAL\Comercial\bin\Debug\Comercial.pdb
+C:\COMERCIAL - new\Comercial\bin\Debug\Comercial.exe.config
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\Comercial.exe
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\Comercial.pdb
+C:\COMERCIAL - new\Comercial\bin\Debug\Comercial.exe
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\Comercial.csprojResolveAssemblyReference.cache
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.CadastroClientes.resources
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.CadastroClientes1.resources
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.Concorrente.resources
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormContato.resources
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormContrato.resources
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.Indicacao.resources
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.meioDeProspeccao.resources
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.Principal.resources
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.formOperadores.resources
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormProposta.resources
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.formProspeccao.resources
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormVisita.resources
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.formRamoAtuacao.resources
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\Comercial.csproj.GenerateResource.Cache
+C:\COMERCIAL - new\Comercial\bin\Debug\Comercial.pdb
+C:\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.ObservacaoVisualizar.resources
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\bin\Debug\Comercial.exe.config
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\Comercial.exe
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\Comercial.pdb
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\bin\Debug\Comercial.exe
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\bin\Debug\Comercial.pdb
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\Comercial.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.CadastroClientes.resources
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.CadastroClientes1.resources
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.Concorrente.resources
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormContato.resources
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormContrato.resources
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.Indicacao.resources
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.meioDeProspeccao.resources
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.ObservacaoVisualizar.resources
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.formOperadores.resources
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormProposta.resources
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.formProspeccao.resources
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.FormVisita.resources
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.formRamoAtuacao.resources
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\Comercial.csproj.GenerateResource.Cache
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new (1)\COMERCIAL - new\Comercial\bin\Debug\Comercial.exe.config
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new (1)\COMERCIAL - new\Comercial\obj\x86\Debug\Comercial.exe
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new (1)\COMERCIAL - new\Comercial\obj\x86\Debug\Comercial.pdb
+C:\Users\Gustavo\Desktop\COMERCIAL - new\Comercial\obj\x86\Debug\WindowsFormsApplication1.btnTrocarUsuario.resources
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\bin\Debug\PasswordTextBoxControl.dll

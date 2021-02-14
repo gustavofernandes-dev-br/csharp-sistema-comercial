@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MarvelousSoftware.Core</id>
+    <version>0.1.0.0</version>
+    <title>MarvelousSoftware.Core</title>
+    <authors>Damian Kaminski</authors>
+    <owners>Damian Kaminski</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>http://marvelous.software/docs.html</projectUrl>
+    <iconUrl>http://marvelous.software/favicons/favicon-32x32.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MarvelousSoftware core libary. Designed for internal use only.</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>MarvelousSoftware marvelous.software</tags>
+  </metadata>
+</package>

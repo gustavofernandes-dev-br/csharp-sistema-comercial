@@ -1,0 +1,93 @@
+C:\COMERCIAL\Comercial\Comercial\bin\Release\Comercial.exe.config
+C:\COMERCIAL\Comercial\Comercial\bin\Release\Comercial.exe
+C:\COMERCIAL\Comercial\Comercial\bin\Release\Comercial.pdb
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.CadastroClientes.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.FormContato.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.FormContrato.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.Login.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.Principal.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.formOperadores.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.FormProposta.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.formProspeccao.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.FormVisita.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\Comercial.csproj.GenerateResource.Cache
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\Comercial.exe
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\Comercial.pdb
+H:\COMERCIAL\Comercial\Comercial\bin\Release\Comercial.exe.config
+H:\COMERCIAL\Comercial\Comercial\bin\Release\Comercial.exe
+H:\COMERCIAL\Comercial\Comercial\bin\Release\Comercial.pdb
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.CadastroClientes.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.CadastroClientes1.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.Concorrente.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.FormContato.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.FormContrato.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.Indicacao.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.Login.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.meioDeProspeccao.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.Principal.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.formOperadores.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.FormProposta.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.formProspeccao.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.FormVisita.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.formRamoAtuacao.resources
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\Comercial.csproj.GenerateResource.Cache
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\Comercial.exe
+H:\COMERCIAL\Comercial\Comercial\obj\x86\Release\Comercial.pdb
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.CadastroClientes1.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.Concorrente.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.Indicacao.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.meioDeProspeccao.resources
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\WindowsFormsApplication1.formRamoAtuacao.resources
+C:\COMERCIAL\Comercial\Comercial\bin\Release\Comercial.exe.manifest
+C:\COMERCIAL\Comercial\Comercial\bin\Release\Comercial.application
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\Comercial.exe.manifest
+C:\COMERCIAL\Comercial\Comercial\obj\x86\Release\Comercial.application
+C:\COMERCIAL\Comercial\bin\Release\Comercial.exe.config
+C:\COMERCIAL\Comercial\bin\Release\Comercial.exe.manifest
+C:\COMERCIAL\Comercial\bin\Release\Comercial.application
+C:\COMERCIAL\Comercial\bin\Release\Comercial.exe
+C:\COMERCIAL\Comercial\bin\Release\Comercial.pdb
+C:\COMERCIAL\Comercial\obj\x86\Release\WindowsFormsApplication1.CadastroClientes.resources
+C:\COMERCIAL\Comercial\obj\x86\Release\WindowsFormsApplication1.CadastroClientes1.resources
+C:\COMERCIAL\Comercial\obj\x86\Release\WindowsFormsApplication1.Concorrente.resources
+C:\COMERCIAL\Comercial\obj\x86\Release\WindowsFormsApplication1.FormContato.resources
+C:\COMERCIAL\Comercial\obj\x86\Release\WindowsFormsApplication1.FormContrato.resources
+C:\COMERCIAL\Comercial\obj\x86\Release\WindowsFormsApplication1.Indicacao.resources
+C:\COMERCIAL\Comercial\obj\x86\Release\WindowsFormsApplication1.Login.resources
+C:\COMERCIAL\Comercial\obj\x86\Release\WindowsFormsApplication1.meioDeProspeccao.resources
+C:\COMERCIAL\Comercial\obj\x86\Release\WindowsFormsApplication1.Principal.resources
+C:\COMERCIAL\Comercial\obj\x86\Release\WindowsFormsApplication1.formOperadores.resources
+C:\COMERCIAL\Comercial\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\COMERCIAL\Comercial\obj\x86\Release\WindowsFormsApplication1.FormProposta.resources
+C:\COMERCIAL\Comercial\obj\x86\Release\WindowsFormsApplication1.formProspeccao.resources
+C:\COMERCIAL\Comercial\obj\x86\Release\WindowsFormsApplication1.FormVisita.resources
+C:\COMERCIAL\Comercial\obj\x86\Release\WindowsFormsApplication1.formRamoAtuacao.resources
+C:\COMERCIAL\Comercial\obj\x86\Release\Comercial.csproj.GenerateResource.Cache
+C:\COMERCIAL\Comercial\obj\x86\Release\Comercial.exe.manifest
+C:\COMERCIAL\Comercial\obj\x86\Release\Comercial.application
+C:\COMERCIAL\Comercial\obj\x86\Release\Comercial.exe
+C:\COMERCIAL\Comercial\obj\x86\Release\Comercial.pdb
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\WindowsFormsApplication1.CadastroClientes.resources
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\WindowsFormsApplication1.CadastroClientes1.resources
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\WindowsFormsApplication1.Concorrente.resources
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\WindowsFormsApplication1.FormContato.resources
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\WindowsFormsApplication1.FormContrato.resources
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\WindowsFormsApplication1.Indicacao.resources
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\WindowsFormsApplication1.Login.resources
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\WindowsFormsApplication1.meioDeProspeccao.resources
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\WindowsFormsApplication1.ObservacaoVisualizar.resources
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\WindowsFormsApplication1.formOperadores.resources
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\WindowsFormsApplication1.FormProposta.resources
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\WindowsFormsApplication1.formProspeccao.resources
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\WindowsFormsApplication1.FormVisita.resources
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\WindowsFormsApplication1.formRamoAtuacao.resources
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\Comercial.csproj.GenerateResource.Cache
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\Comercial.exe
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\Comercial.pdb
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\bin\Debug\Comercial.exe.config
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\bin\Debug\Comercial.exe
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\bin\Debug\Comercial.pdb
+C:\Users\GUSTAVO\Desktop\COMERCIAL - new\Comercial\obj\x86\Release\WindowsFormsApplication1.btnTrocarUsuario.resources

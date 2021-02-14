@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MarvelousSoftware.QueryLanguage</id>
+    <version>0.1.0.0</version>
+    <title>MarvelousSoftware.QueryLanguage</title>
+    <authors>Damian Kaminski</authors>
+    <owners>Damian Kaminski</owners>
+    <licenseUrl>http://www.gnu.org/licenses/gpl-3.0.txt</licenseUrl>
+    <projectUrl>http://marvelous.software/docs.html#/query-language</projectUrl>
+    <iconUrl>http://marvelous.software/favicons/favicon-32x32.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Marvelous Query Language is a domain specific language designed to filter IQueryable sources.</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>MarvelousSoftware marvelous.software MarvelousSoftware.QueryLanguage mql marvelousquerylanguage query language querylanguage aurelia</tags>
+    <dependencies>
+      <dependency id="MarvelousSoftware.Core" version="0.1.0" />
+    </dependencies>
+  </metadata>
+</package>
